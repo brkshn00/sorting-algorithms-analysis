@@ -3,9 +3,12 @@ out/
 bin/
 *.class
 
-# IDE and Editor files
-.idea/
-*.iml
+# IntelliJ IDEA personal / transient files
+.idea/workspace.xml
+.idea/shelf/
+.idea/inspectionProfiles/
+
+# Editor and OS files
 .vscode/
 .DS_Store
 
