@@ -1,0 +1,17 @@
+# Build outputs
+out/
+bin/
+*.class
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Virtual environments
+.venv/
+
+# Archives
+*.zip
+*.tar.gz
